@@ -13,3 +13,6 @@
 	path = dpe
 	url = https://github.com/chipsalliance/caliptra-dpe.git
 	branch = main
+[submodule "registers/bin/extra-rdl/i3c-core"]
+	path = registers/bin/extra-rdl/i3c-core
+	url = git@github.com:chipsalliance/i3c-core.git
