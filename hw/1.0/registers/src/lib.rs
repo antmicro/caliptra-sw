@@ -855,6 +855,7 @@ pub mod enums {
 pub mod meta {
     //! Additional metadata needed by ureg.
 }
+pub mod SecFwRecoveryIf;
 pub mod csrng;
 pub mod doe;
 pub mod dv;
